@@ -1,0 +1,9 @@
+.side-card{
+    border: 2px solid green;
+    background-color: chocolate;
+    border: none;
+    border-radius: 10px;
+    height: 45px;
+    width: 280px;
+    
+}
